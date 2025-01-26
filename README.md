@@ -67,3 +67,6 @@ curl -X POST "http://localhost:8000/process" \
   },
   "summary": "The snippet mentions no competitors and focuses on data, security."
 }
+
+## **Colab Notebook**
+You can explore and run the NLP Pipeline in this [Google Colab Notebook](https://colab.research.google.com/drive/1RN4l3awJCu8o9awNN4JzAzuPT21LrqCt?usp=sharing).
